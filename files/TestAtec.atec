@@ -1,0 +1,9 @@
+ATECvar newVar = ATEC"Hello World! Plz Work"ATEC;
+ATEC
+ATECfunction printFunction ()ATEC{
+  ATECfor(ATECvar i ATEC=ATEC0;iATEC+ATEC+)ATEC{
+    ATECConsole.ATEClog(ATECnewVar ATEC+ ATEC" - "ATEC+i)ATEC;
+  ATEC}
+ATEC}
+ATECprintFunction()ATEC;
+ATEC

@@ -1,0 +1,31 @@
+{
+  "name": "atec-lang",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./lib/atec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtecStudios/AtecLang.git"
+  },
+  "keywords": [
+    "language",
+    "parser",
+    "sdcore"
+  ],
+  "author": "VictoryForPhil @ atecstudios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtecStudios/AtecLang/issues"
+  },
+  "homepage": "https://github.com/AtecStudios/AtecLang#readme",
+  "bin": {
+    "atec": "./bin/atec.js"
+  },
+  "preferGlobal": "true",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
